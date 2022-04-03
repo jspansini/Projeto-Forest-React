@@ -1,10 +1,16 @@
-<h1> 🚀 Agencia de Turismo Forest Gump </h1>
+<h1> Projeto final do módulo 4 Recode </h1>
 
-<p> Projeto desenvolvido durante o curso de desenvolvimento fullstack RecodePro. </p>
+<p> Front end em REACT usando a biblioteca MUI e bootstrap </p>
 
-🛠 Linguagens e Ferramentas:
-HTML + JS = JSX
-Fundamentos do react
+<h2> 🛠 Linguagens e Ferramentas:</h2>
+- HTML<br>
+- CSS <br>
+- JSX<br>
 
-📝Conhecimentos adquiridos:
-Rotas, linkagem, aperfeiçoamento das aulas teóricas
+<h3>🎯 Conhecimentos adquiridos:</h3>
+
+- Desenvolvimento visual usando react;
+- Conheci a biblioteca Material.io;
+
+
+<h4>Link funcional: https://agencia-forest-react.vercel.app/ </h4>
